@@ -11,7 +11,6 @@
 - Power BI
 - Machine Learning
 
----
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -22,7 +21,6 @@
 - Excel
 - Git & GitHub
 
----
 
 ## 📂 Projetos em Destaque
 
@@ -31,7 +29,6 @@
 📈 Análise de Engajamento do Instagram  
 🗄️ Estudos e projetos com Pandas e SQL 
 
----
 
 ## 📫 Contato
 
